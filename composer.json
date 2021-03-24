@@ -1,5 +1,5 @@
 {
-    "name": "Hesammousavi/scout-elasticsearch-driver",
+    "name": "hesammousavi/scout-elasticsearch-driver",
     "type": "library",
     "description": "The Elasticsearch Driver for Laravel Scout",
     "keywords": [
